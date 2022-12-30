@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "5+AWFW/Hb5lHJ39z6Kr9ai9h2w8VtkXgcZGqezpEqFwpm6E2iu2k1wuLRbGIb9KIdQE5PSzFLHoZxEC+Dpm1oA==",
+  "dgSpecHash": "eHqCwukZCDAXC3ZIgTS4RHIG7ZXM/bQi8uynJLxehhzQvHbQKnjPjdY8wH1uNI18qoFx+A7vNRN6VGBMvLCNGg==",
   "success": true,
   "projectFilePath": "E:\\Coding Stuff\\CSharp_MVC\\MvcTaskManager\\MvcTaskManager.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\awssdk.core\\3.7.103.7\\awssdk.core.3.7.103.7.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.101.15\\awssdk.dynamodbv2.3.7.101.15.nupkg.sha512"
+  ],
   "logs": []
 }
