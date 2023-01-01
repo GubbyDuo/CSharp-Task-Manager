@@ -1,7 +1,17 @@
-﻿@{
+﻿@using Task = MvcTaskManager.Models.Task
+@model MvcTaskManager.Models.TaskCollection
+
+
+@{
     ViewData["Title"] = "Home Page";
 }
 
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>
+    @foreach(var model in Model.Tasks)
+    {
+        @await Html.PartialAsync("Task", model)
+    }
+    @await Html.PartialAsync("Form", new Task("", ""))
+
 </div>

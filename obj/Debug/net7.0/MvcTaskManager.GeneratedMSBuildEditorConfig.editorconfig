@@ -16,8 +16,16 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = E:\Coding Stuff\CSharp_MVC\MvcTaskManager
 build_property._RazorSourceGeneratorDebug = 
 
+[E:/Coding Stuff/CSharp_MVC/MvcTaskManager/Views/Home/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/Coding Stuff/CSharp_MVC/MvcTaskManager/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Coding Stuff/CSharp_MVC/MvcTaskManager/Views/Home/Task.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUYXNrLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/Coding Stuff/CSharp_MVC/MvcTaskManager/Views/Shared/Error.cshtml]

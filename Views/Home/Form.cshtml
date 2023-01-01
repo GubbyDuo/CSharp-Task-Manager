@@ -1,0 +1,8 @@
+﻿@model MvcTaskManager.Models.Task
+
+@using (Html.BeginForm("Form", "Home", FormMethod.Post)){
+    @Html.TextAreaFor(n => n.Name)
+    <br />
+    @Html.TextAreaFor(d => d.Description)
+    <input type="submit" value="Submit"/>
+}
